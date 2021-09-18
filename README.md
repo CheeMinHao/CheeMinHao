@@ -1,6 +1,6 @@
-### Hi, am Min Hao!
+### Hi, am Min Hao! 👋
 
-## 2nd Year Monash University Computer Science student
+## 2nd Year Monash University Computer Science student 👨‍💻
 - Studying Advanced Computer Science Stream
 - Have proficiency in Web Dev and Algorithms
 - Looking into learning ML/AI and Blockchain
