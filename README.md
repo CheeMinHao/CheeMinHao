@@ -20,8 +20,6 @@
 2. Version Control (Git)
 3. Programming Languages (Python, Java, JS, TS)
 
-<br />
-
 ### Currently Involved Projects:
 - [Eureka](https://github.com/MUM-Open-Source/eureka-web-app)
 - [AlgoBot](https://github.com/soit-discord-bot/discord-python)
