@@ -18,5 +18,8 @@
 2. Version Control (Git)
 3. Programming Languages (Python, Java, JS, TS)
 
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/chee-min-hao/
 [instagram]: https://www.instagram.com/chee_adam0325/
