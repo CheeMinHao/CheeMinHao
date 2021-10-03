@@ -18,7 +18,8 @@
 ### Skills:
 1. Fullstack Web Development (HTML, CSS, JS, TS, React, Vue, Django, Node.js, etc.)
 2. Version Control (Git)
-3. Programming Languages (Python, Java, JS, TS)
+3. Programming Languages (Python, Java, JS, TS, Haskell)
+4. Algorithms and Data Structures
 
 ### Currently Involved Projects:
 - [Eureka](https://github.com/MUM-Open-Source/eureka-web-app)
@@ -26,6 +27,7 @@
 - [XN](https://github.com/stock-arrangement)
 - UReview
 - Vaccu
+- Foodie
 
 <br />
 
