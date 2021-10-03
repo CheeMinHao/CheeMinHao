@@ -3,7 +3,7 @@
 ## 2nd Year Monash University Computer Science student 👨‍💻
 - Studying Advanced Computer Science Stream
 - Have proficiency in Web Dev and Algorithms
-- Research Assistant for a project in Monash.
+- Research Assistant in Monash.
 - MUSA School of IT Representative 2022
 - Looking into learning ML/AI and Blockchain
 - Love Coding and being involved with the business aspect of IT as well!
