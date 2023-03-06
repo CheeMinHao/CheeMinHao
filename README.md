@@ -1,11 +1,11 @@
 ### Hi, am Min Hao! 👋
 
-## 2nd Year Monash University Computer Science student 👨‍💻
+## Final Year Monash University Computer Science student 👨‍💻
 - Studying Advanced Computer Science Stream
 - Have proficiency in Web Dev and Algorithms
-- Research Assistant in Monash.
-- MUSA School of IT Representative 2022
-- Looking into learning ML/AI and Blockchain
+- Ex-Research Assistant in Monash.
+- Ex-MUSA School of IT Representative 2022
+- Looking into learning ML/AI and DevOps
 - Love Coding and being involved with the business aspect of IT as well!
 
 ### Connect with me:
