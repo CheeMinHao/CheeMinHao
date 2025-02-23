@@ -1,11 +1,14 @@
 ### Hi, am Min Hao! 👋
 
-## Final Year Monash University Computer Science student 👨‍💻
-- Studying Advanced Computer Science Stream
-- Have proficiency in Web Dev and Algorithms
+## Monash University Masters in AI Student 👨‍💻
+- Have studied Bachelors of Computer Science in Advanced Computer Science at Monash Malaysia
+- Currently studying at Monash Australia 🇦🇺
+- Have proficiency in Full Stack Development, Algorithms, and ML/AI
 - Ex-Research Assistant in Monash.
 - Ex-MUSA School of IT Representative 2022
-- Looking into learning ML/AI and DevOps
+- GDSC Lead, MUMTEC Industrial Team, etc.
+- Club Advisor for Monash Tech Club
+- Trying to pursue my knowledge in ML/AI, also casually doing research :D
 - Love Coding and being involved with the business aspect of IT as well!
 
 ### Connect with me:
@@ -17,14 +20,15 @@
 
 ### Skills:
 1. Fullstack Web Development (HTML, CSS, JS, TS, React, Vue, Django, Node.js, etc.)
-2. Version Control (Git)
+2. Version Control (Git, Azure)
 3. Programming Languages (Python, Java, JS, TS, Haskell)
 4. Algorithms and Data Structures
+5. DevOps (AWS)
+6. ML/AI (CNN, RNN, Digital Twin, etc.)
 
-### Currently Involved Projects:
+### Past Projects:
 - [Eureka](https://github.com/MUM-Open-Source/eureka-web-app)
 - [AlgoBot](https://github.com/soit-discord-bot/discord-python)
-- [XN](https://github.com/stock-arrangement)
 - UReview
 - Vaccu
 - Foodie
